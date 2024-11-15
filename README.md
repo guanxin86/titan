@@ -6,4 +6,4 @@ titan-network
 ### 文档
 [官方文档](https://titannet.gitbook.io/titan-network-cn)
 ## 状态查询
-[状态查询】(https://test1.titannet.io/newoverview/activationcodemanagement)
+[状态查询](https://test1.titannet.io/newoverview/activationcodemanagement)
